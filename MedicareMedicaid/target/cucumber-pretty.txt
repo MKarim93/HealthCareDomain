@@ -1,0 +1,10 @@
+Feature: CMS HomePage Validations
+
+  Scenario: Module Validations of the CMS landing page                      [90m# cms.feature:3[0m
+    [31mGiven [0m[31mUser navigates to https://www.cms.gov/[0m                            [90m# HomePageSteps.user_navigates_to_https_www_cms_gov()[0m
+      [31mjava.lang.NullPointerException
+      	at cucumber.stepDef.HomePageSteps.user_navigates_to_https_www_cms_gov(HomePageSteps.java:19)
+      	at ✽.Given User navigates to https://www.cms.gov/(cms.feature:4)
+      [0m
+    [36mWhen [0m[36mUser validates the page has been loaded[0m                            [90m# HomePageSteps.user_validates_the_page_has_been_loaded()[0m
+    [36mThen [0m[36mUser validate all the modules on the top of the page are displayed[0m [90m# HomePageSteps.user_validate_all_the_modules_on_the_top_of_the_page_are_displayed()[0m
