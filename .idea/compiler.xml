@@ -9,6 +9,7 @@
         <module name="Generic" />
         <module name="MedicareMedicaid" />
         <module name="UnitedHealthGroup" />
+        <module name="BlueCrossBlueShield" />
       </profile>
     </annotationProcessing>
   </component>

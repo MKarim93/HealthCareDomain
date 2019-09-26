@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>MedicareMedicaid</module>
         <module>UnitedHealthGroup</module>
+        <module>BlueCrossBlueShield</module>
     </modules>
     <dependencyManagement>
         <dependencies>
@@ -33,7 +34,11 @@
                 <artifactId>selenium-java</artifactId>
                 <version>3.141.59</version>
             </dependency>
-
+            <dependency>
+                <groupId>org.seleniumhq.selenium</groupId>
+                <artifactId>selenium-server</artifactId>
+                <version>3.141.59</version>
+            </dependency>
             <dependency>
                 <groupId>org.testng</groupId>
                 <artifactId>testng</artifactId>
@@ -91,5 +96,18 @@
             </dependency>
         </dependencies>
     </dependencyManagement>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <configuration>
+                    <source>1.8</source>
+                    <target>1.8</target>
+                </configuration>
+            </plugin>
+        </plugins>
+    </build>
 
 </project>
