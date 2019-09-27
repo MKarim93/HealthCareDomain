@@ -37,11 +37,11 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!-- be aware of the xml file path-->
-                        <suiteXmlFiles>target/test-classes/AmazonTestRunner.xml</suiteXmlFiles>
+                        <suiteXmlFiles>target/test-classes/BCBSTestRunner.xml</suiteXmlFiles>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
         </plugins>
     </build>
-    
+
 </project>
