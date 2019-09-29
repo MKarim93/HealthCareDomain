@@ -10,7 +10,7 @@ public class CommonAPI {
     public static WebDriver driver = null;
 
     public static WebDriver getLocalDriver() {
-        System.setProperty("webdriver.chrome.driver", "C://Users//Mohammad Karim//Browsers//chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "C://Users//Mohammad Karim//HealthCareDomain//Generic//Drivers//chromedriver.exe");
 
         driver = new ChromeDriver();
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
