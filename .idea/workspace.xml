@@ -66,8 +66,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MedicareMedicaidHomePageModuleTest.medicareModuleTest">
-    <configuration name="MedicareMedicaidHomePageModuleTest.medicareModuleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.MMHomePageTest.medicareModuleTest">
+    <configuration name="MMHomePageTest.medicareModuleTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MedicareMedicaid" />
       <extension name="coverage">
         <pattern>
@@ -76,7 +76,7 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="homePageTest" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest.MedicareMedicaidHomePageModuleTest" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest.MMHomePageTest" />
       <option name="METHOD_NAME" value="medicareModuleTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -159,7 +159,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MedicareMedicaidHomePageModuleTest.medicareModuleTest" />
+        <item itemvalue="TestNG.MMHomePageTest.medicareModuleTest" />
         <item itemvalue="TestNG.TestManuPage.manuTestBCBS" />
         <item itemvalue="TestNG.TestManuPage.manuTestAmazon" />
         <item itemvalue="TestNG.TestManuPage.searchItem1" />

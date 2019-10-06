@@ -1,9 +1,9 @@
-package homePage;
+package medicareMedicaidPages;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class MedicareMedicaidHomePageObjects {
+public class HomePageObjects {
 
     @FindBy(linkText = "Medicare")
     WebElement Medicare;
