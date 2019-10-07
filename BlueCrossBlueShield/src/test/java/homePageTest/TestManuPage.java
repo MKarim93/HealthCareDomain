@@ -11,8 +11,18 @@ public class TestManuPage extends ManuPage {
     }
 
     @Test(priority = 2)
-    public void manuTestAmazon() throws Exception{
-        manuPageOptionAmazon();
+    public void manuTestDelta() throws Exception{
+        manuPageOptionDelta();
+    }
+
+    @Test(priority = 3)
+    public void manuTestBCBS2() throws Exception{
+        manuPageOptionBCBS2();
+    }
+
+    @Test(priority = 4)
+    public void testfindAllElements() throws InterruptedException {
+        findAllElements();
     }
 }
 
