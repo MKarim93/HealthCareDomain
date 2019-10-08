@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a983dea8-bcca-494e-91c3-c6d6f5f3b007" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/MedicareMedicaid/target/" />
-    <ignored path="$PROJECT_DIR$/Generic/target/" />
-    <ignored path="$PROJECT_DIR$/UnitedHealthGroup/target/" />
-    <ignored path="$PROJECT_DIR$/BlueCrossBlueShield/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,16 +116,6 @@
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -146,13 +131,6 @@
         <option value="$PROJECT_DIR$/BlueCrossBlueShield/src/test/java/homePageTest/TestSearchPage.java" />
         <option value="$PROJECT_DIR$/BlueCrossBlueShield/src/test/java/homePageTest/TestManuPage.java" />
       </list>
-    </option>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
     </option>
   </component>
   <component name="MavenProjectNavigator">
@@ -177,261 +155,9 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
-  <component name="ProjectId" id="1RARCQRlPipVNZjS1KP9Mqa6ziF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homePage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homePageTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="BlueCrossBlueShield" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="Drivers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="MedicareMedicaid" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="MedicareMedicaid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="MedicareMedicaid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="MedicareMedicaid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="MedicareMedicaid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cucumber" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="MedicareMedicaid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cucumber" type="462c0819:PsiDirectoryNode" />
-              <item name="feature" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="MedicareMedicaid" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="RestAPI" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="UnitedHealthGroup" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="UnitedHealthGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HealthCareDomain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HealthCareDomain" type="462c0819:PsiDirectoryNode" />
-              <item name="UnitedHealthGroup" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="maven-status" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Selenium-General" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Studies\Java\IdeaProjects\HealthDomain with Karin\HealthCareDomain\BlueCrossBlueShield\src\test" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="RestAPI" />
-      <recent name="base" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Studies\Java\IdeaProjects\HealthDomain with Karin\HealthCareDomain\Generic\Drivers" />
-      <recent name="C:\Users\Mohammad Karim\HealthCareDomain\MedicareMedicaid\src\main\java" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="TestNG.TestManuPage.testFindADoctor">
-    <configuration name="TestManuPage.findAllElements" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="BlueCrossBlueShield" />
+  <component name="RunManager" selected="TestNG.MMHomePageTest.medicareModuleTest">
+    <configuration name="MMHomePageTest.medicareModuleTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MedicareMedicaid" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="homePageTest.*" />
@@ -439,8 +165,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="homePageTest" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest.TestManuPage" />
-      <option name="METHOD_NAME" value="findAllElements" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest.MMHomePageTest" />
+      <option name="METHOD_NAME" value="medicareModuleTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -484,7 +210,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestSearchPage.searchItem2" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestManuPage.searchItem1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="BlueCrossBlueShield" />
       <extension name="coverage">
         <pattern>
@@ -493,8 +219,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="homePageTest" />
-      <option name="MAIN_CLASS_NAME" value="homePageTest.TestSearchPage" />
-      <option name="METHOD_NAME" value="searchItem2" />
+      <option name="MAIN_CLASS_NAME" value="homePageTest.TestManuPage" />
+      <option name="METHOD_NAME" value="searchItem1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -527,6 +253,11 @@
         <item itemvalue="TestNG.TestSearchPage.searchItem3" />
         <item itemvalue="TestNG.TestManuPage.testfindAllElements" />
         <item itemvalue="TestNG.TestManuPage.findAllElements" />
+        <item itemvalue="TestNG.MMHomePageTest.medicareModuleTest" />
+        <item itemvalue="TestNG.TestManuPage.manuTestBCBS" />
+        <item itemvalue="TestNG.TestManuPage.manuTestAmazon" />
+        <item itemvalue="TestNG.TestManuPage.searchItem1" />
+        <item itemvalue="TestNG.TestSearchPage.searchItem3" />
       </list>
     </recent_temporary>
   </component>
@@ -613,12 +344,7 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
+              <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
