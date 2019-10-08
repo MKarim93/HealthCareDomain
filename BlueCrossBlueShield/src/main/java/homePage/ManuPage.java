@@ -2,6 +2,7 @@ package homePage;
 
 import base.CommonAPI2;
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 
@@ -54,6 +55,25 @@ public class ManuPage extends CommonAPI2 {
                 System.out.println("The "+ i + "th link text is : " + linkText);
             }
         }
+    }
+
+    public void findADoctor() throws InterruptedException {
+        Actions action = new Actions(driver);
+        action.moveToElement(driver.findElement(By.linkText("Find a Doctor"))).build().perform();
+        Thread.sleep(2000);
+        driver.findElement(By.xpath("//nav[@id='block-bcbs-main-menu']//a[@class='button--arrow-right'][contains(text(),'In the United States, Puerto Rico and U.S. Virgin')]")).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id("input-location")).sendKeys("Austin, TX");
+        Thread.sleep(2000);
+        driver.findElement(By.xpath("//span[@class='truncate p-1 bb-primary-1']")).click();
+        Thread.sleep(2000);
+        driver.findElement(By.xpath("//div[@class='input-group w-100']//input[@class='form-control']")).sendKeys("UTA");
+        Thread.sleep(2000);
+        driver.findElement(By.id("ember166")).click();
+        driver.findElement(By.xpath("//div[@class='d-flex justify-content-between']")).click();
+        driver.findElement(By.linkText("Doctors by name")).click();
+        Thread.sleep(2000);
+        driver.findElement(By.id("input-what")).sendKeys("Huang", Keys.ENTER);
     }
 
 }

@@ -24,5 +24,11 @@ public class TestManuPage extends ManuPage {
     public void testfindAllElements() throws InterruptedException {
         findAllElements();
     }
+
+    @Test(priority = 5)
+    public void testFindADoctor() throws InterruptedException {
+        findADoctor();
+    }
+
 }
 
